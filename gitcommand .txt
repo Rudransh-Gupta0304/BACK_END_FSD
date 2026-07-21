@@ -9,6 +9,11 @@ git remote add origin githubrepo url
 git branch -M main
 git push -u origin main
 
+// id there occur a issue where it show =s the error to failed to push some refs to git url than use the cmd 
+
+git pull origin main --allow-unrelated-histories
+than push origin main
+
 //cloud to local repo 
 
 git clone url
