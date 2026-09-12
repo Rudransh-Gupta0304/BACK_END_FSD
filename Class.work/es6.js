@@ -19,4 +19,4 @@ const  sayHello= (()  => {
     console.log("arrow function")
 })
 
-sayHello(); 
+sayHello() 
