@@ -34,7 +34,7 @@ emitter.on("click", (name) => {
 });
 
 // Trigger the event
-emitter.emit("click", "Login");
+emitter.emit("click", "Login")
 
 
 
