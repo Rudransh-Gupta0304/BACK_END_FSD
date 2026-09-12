@@ -80,4 +80,4 @@ function dispaly(){
 function fsd(callback){
     console.log("Welcome");
 }
-fsd(display());
+fsd(display())
