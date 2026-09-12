@@ -1,4 +1,4 @@
-//Practice routing using http module
+//Practice routing using http modules
 
 import http from 'http';
 const server=http.createServer((req,res)=>{
