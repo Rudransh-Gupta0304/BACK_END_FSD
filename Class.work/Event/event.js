@@ -21,4 +21,4 @@ emitter.on('mouseover', () => {
 emitter.emit('click', 'nirjara');
 
 // Trigger mouseover event
-emitter.emit('mouseover');
+emitter.emit('mouseover')
