@@ -6,4 +6,4 @@ const myPromise = new Promise((resolve) => {
 
 myPromise.then((result) => {
     console.log(result);
-});
+})
