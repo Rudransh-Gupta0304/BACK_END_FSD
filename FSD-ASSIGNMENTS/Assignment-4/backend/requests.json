@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "studentName": "Aarav Sharma",
+    "email": "aarav.sharma@gmail.com",
+    "category": "Electricity",
+    "description": "The lights in Room 204 are not working.",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "studentName": "Priya Singh",
+    "email": "priya.singh@gmail.com",
+    "category": "Internet",
+    "description": "Wi-Fi connection is very slow in the computer lab.",
+    "priority": "High"
+  },
+  {
+    "id": 3,
+    "studentName": "Rohan Verma",
+    "email": "rohan.verma@gmail.com",
+    "category": "Cleanliness",
+    "description": "The washroom near Block B needs cleaning.",
+    "priority": "Medium"
+  },
+  {
+    "id": 4,
+    "studentName": "Ananya Gupta",
+    "email": "ananya.gupta@gmail.com",
+    "category": "Classroom",
+    "description": "The projector in Room 105 is not working.",
+    "priority": "High"
+  },
+  {
+    "id": 5,
+    "studentName": "Aditya Kumar",
+    "email": "aditya.kumar@gmail.com",
+    "category": "Transport",
+    "description": "The college bus on Route 3 is frequently arriving late.",
+    "priority": "Medium"
+  },
+  {
+    "id": 6,
+    "studentName": "Sneha Agarwal",
+    "email": "sneha.agarwal@gmail.com",
+    "category": "Library",
+    "description": "Several computers in the library are not available for use.",
+    "priority": "Low"
+  },
+  {
+    "id": 7,
+    "studentName": "Karan Mehta",
+    "email": "karan.mehta@gmail.com",
+    "category": "Water Supply",
+    "description": "There is no drinking water available near Block C.",
+    "priority": "High"
+  },
+  {
+    "id": 8,
+    "studentName": "Ishita Jain",
+    "email": "ishita.jain@gmail.com",
+    "category": "Security",
+    "description": "The CCTV camera near the main gate appears to be offline.",
+    "priority": "Medium"
+  },
+  {
+    "id": 9,
+    "studentName": "Rahul Yadav",
+    "email": "rahul.yadav@gmail.com",
+    "category": "Maintenance",
+    "description": "A broken chair needs to be replaced in Room 302.",
+    "priority": "Low"
+  },
+  {
+    "id": 10,
+    "studentName": "Neha Kapoor",
+    "email": "neha.kapoor@gmail.com",
+    "category": "Other",
+    "description": "The notice board near the cafeteria needs to be updated.",
+    "priority": "Low"
+  }
+]
