@@ -105,7 +105,7 @@ StudentDB> db.students.find()
 ]
 
 
-<!-- With the help of this Command we can find the Student who is above 20 -->
+<!-- with the help of this Command we can find the Student who is above 20 -->
 StudentDB> db.students.find({
 |     age: { $gt: 20 }
 | });
